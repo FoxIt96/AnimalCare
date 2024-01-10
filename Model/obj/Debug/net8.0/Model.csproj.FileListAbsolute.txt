@@ -1,0 +1,12 @@
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\bin\Debug\net8.0\Model.deps.json
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\bin\Debug\net8.0\Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\bin\Debug\net8.0\Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\refint\Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Model\obj\Debug\net8.0\ref\Model.dll

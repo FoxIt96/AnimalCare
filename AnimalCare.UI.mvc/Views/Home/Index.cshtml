@@ -1,0 +1,51 @@
+﻿<h1>Overview</h1>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>Caregiver</th>
+            <th>Animal Name</th>
+            <th>Animal Birthdate</th>
+            <th>Animal Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var caregiver in (List<Caregiver>)ViewBag.Caregivers)
+    {
+        <tr>
+            <td><a asp-controller="Caregiver" asp-action="Edit" asp-route-id="@caregiver.Id">@caregiver.FirstName @caregiver.LastName</a></td>
+            <td>
+                @if (caregiver.Animal != null)
+                {
+                    <a asp-controller="Animal" asp-action="Edit" asp-route-id="@caregiver.Animal.Id">@caregiver.Animal.Name</a>
+                }
+                else
+                {
+                    <p>Unassigned</p>
+                }
+            </td>
+            <td>
+                @if (caregiver.Animal != null)
+                {
+                    @caregiver.Animal.Birthdate
+                }
+                else
+                {
+                    <p>N/A</p>
+                }
+            </td>
+            <td>
+                @if (caregiver.Animal != null)
+                {
+                    @caregiver.Animal.Description
+                }
+                else
+                {
+                    <p>N/A</p>
+                }
+            </td>
+        </tr>
+    }
+
+    </tbody>
+</table>

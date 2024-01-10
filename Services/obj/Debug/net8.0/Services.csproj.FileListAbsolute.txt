@@ -1,0 +1,17 @@
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Services.deps.json
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Services.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Core.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Core.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\bin\Debug\net8.0\Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\refint\Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\Services.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Services\obj\Debug\net8.0\ref\Services.dll

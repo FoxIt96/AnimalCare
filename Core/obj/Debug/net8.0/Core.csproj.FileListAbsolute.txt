@@ -1,0 +1,15 @@
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\bin\Debug\net8.0\Core.deps.json
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\bin\Debug\net8.0\Core.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\bin\Debug\net8.0\Core.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\bin\Debug\net8.0\Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\bin\Debug\net8.0\Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.csproj.CopyComplete
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\refint\Core.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\Core.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\AnimalCare.UI.mvc\Core\obj\Debug\net8.0\ref\Core.dll

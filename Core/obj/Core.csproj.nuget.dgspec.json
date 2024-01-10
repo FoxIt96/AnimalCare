@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Core\\Core.csproj": {}
+  },
+  "projects": {
+    "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\nickd\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nickd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\Model.csproj": {
+                "projectPath": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\nickd\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive - Hogeschool VIVES\\2e jaar\\Web development 2\\oefenen examen semester 1\\AnimalCare.UI.mvc\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nickd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

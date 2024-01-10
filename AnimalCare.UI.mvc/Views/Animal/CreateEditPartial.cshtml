@@ -1,0 +1,24 @@
+﻿@model Animal
+
+<div asp-validation-summary="ModelOnly"></div>
+
+<div class="mb-3">
+    <label asp-for="Name" class="form-label"></label>
+    <input asp-for="Name" class="form-control">
+    <span asp-validation-for="Name"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Birthdate" class="form-label"></label>
+    <input asp-for="Birthdate" class="form-control">
+    <span asp-validation-for="Birthdate"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Gender" class="form-label"></label>
+    <input asp-for="Gender" class="form-control">
+    <span asp-validation-for="Gender"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Description" class="form-label"></label>
+    <input asp-for="Description" class="form-control">
+    <span asp-validation-for="Description"></span>
+</div>

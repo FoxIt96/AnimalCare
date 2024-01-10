@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AnimalCare.UI.mvc.props" />
+</Project>

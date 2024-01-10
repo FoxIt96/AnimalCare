@@ -1,0 +1,41 @@
+﻿@model Caregiver
+@{
+    var animals = (IList<Animal>)ViewBag.Animals;
+}
+
+<div asp-validation-summary="ModelOnly"></div>
+
+<div class="mb-3">
+    <label asp-for="FirstName" class="form-label"></label>
+    <input asp-for="FirstName" class="form-control">
+    <span asp-validation-for="FirstName"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="LastName" class="form-label"></label>
+    <textarea asp-for="LastName" class="form-control"></textarea>
+    <span asp-validation-for="LastName"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Email" class="form-label"></label>
+    <textarea asp-for="Email" class="form-control"></textarea>
+    <span asp-validation-for="Email"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="PhoneNumber" class="form-label"></label>
+    <textarea asp-for="PhoneNumber" class="form-control"></textarea>
+    <span asp-validation-for="PhoneNumber"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="AnimalId" class="form-label"></label>
+    <select asp-for="AnimalId">
+        <option value="">Unassigned</option>
+        @if (animals != null)
+        {
+            foreach (var person in animals)
+            {
+                <option value="@person.Id">@person.Name @person.Birthdate</option>
+            }
+        }
+    </select>
+    <span asp-validation-for="AnimalId"></span>
+</div>
